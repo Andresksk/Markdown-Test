@@ -89,3 +89,4 @@ ___
 * [ ] Task 1
 * [x] Task 1
 * [x] Task 1
+* [x] Task 1
